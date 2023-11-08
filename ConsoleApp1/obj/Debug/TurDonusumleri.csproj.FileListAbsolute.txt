@@ -1,0 +1,7 @@
+C:\C#Dersleri\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\C#Dersleri\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\C#Dersleri\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\C#Dersleri\ConsoleApp1\obj\Debug\TurDonusumleri.csproj.AssemblyReference.cache
+C:\C#Dersleri\ConsoleApp1\obj\Debug\TurDonusumleri.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\C#Dersleri\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

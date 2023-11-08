@@ -1,0 +1,7 @@
+C:\C#Dersleri\PoliformizmGiris\bin\Debug\PoliformizmGiris.exe.config
+C:\C#Dersleri\PoliformizmGiris\bin\Debug\PoliformizmGiris.exe
+C:\C#Dersleri\PoliformizmGiris\bin\Debug\PoliformizmGiris.pdb
+C:\C#Dersleri\PoliformizmGiris\obj\Debug\PoliformizmGiris.csproj.AssemblyReference.cache
+C:\C#Dersleri\PoliformizmGiris\obj\Debug\PoliformizmGiris.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\PoliformizmGiris\obj\Debug\PoliformizmGiris.exe
+C:\C#Dersleri\PoliformizmGiris\obj\Debug\PoliformizmGiris.pdb

@@ -1,0 +1,7 @@
+C:\C#Dersleri\MethodlaraGiris\bin\Debug\MethodlaraGiris.exe.config
+C:\C#Dersleri\MethodlaraGiris\bin\Debug\MethodlaraGiris.exe
+C:\C#Dersleri\MethodlaraGiris\bin\Debug\MethodlaraGiris.pdb
+C:\C#Dersleri\MethodlaraGiris\obj\Debug\MethodlaraGiris.csproj.AssemblyReference.cache
+C:\C#Dersleri\MethodlaraGiris\obj\Debug\MethodlaraGiris.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\MethodlaraGiris\obj\Debug\MethodlaraGiris.exe
+C:\C#Dersleri\MethodlaraGiris\obj\Debug\MethodlaraGiris.pdb

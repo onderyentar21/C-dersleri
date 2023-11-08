@@ -1,0 +1,7 @@
+C:\C#Dersleri\IcICeForDongusu\bin\Debug\IcICeForDongusu.exe.config
+C:\C#Dersleri\IcICeForDongusu\bin\Debug\IcICeForDongusu.exe
+C:\C#Dersleri\IcICeForDongusu\bin\Debug\IcICeForDongusu.pdb
+C:\C#Dersleri\IcICeForDongusu\obj\Debug\IcICeForDongusu.csproj.AssemblyReference.cache
+C:\C#Dersleri\IcICeForDongusu\obj\Debug\IcICeForDongusu.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\IcICeForDongusu\obj\Debug\IcICeForDongusu.exe
+C:\C#Dersleri\IcICeForDongusu\obj\Debug\IcICeForDongusu.pdb

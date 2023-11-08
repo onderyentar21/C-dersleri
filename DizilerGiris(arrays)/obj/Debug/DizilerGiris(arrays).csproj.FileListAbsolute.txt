@@ -1,0 +1,7 @@
+C:\C#Dersleri\DizilerGiris(arrays)\bin\Debug\DizilerGiris(arrays).exe.config
+C:\C#Dersleri\DizilerGiris(arrays)\bin\Debug\DizilerGiris(arrays).exe
+C:\C#Dersleri\DizilerGiris(arrays)\bin\Debug\DizilerGiris(arrays).pdb
+C:\C#Dersleri\DizilerGiris(arrays)\obj\Debug\DizilerGiris(arrays).csproj.AssemblyReference.cache
+C:\C#Dersleri\DizilerGiris(arrays)\obj\Debug\DizilerGiris(arrays).csproj.CoreCompileInputs.cache
+C:\C#Dersleri\DizilerGiris(arrays)\obj\Debug\DizilerGiris(arrays).exe
+C:\C#Dersleri\DizilerGiris(arrays)\obj\Debug\DizilerGiris(arrays).pdb

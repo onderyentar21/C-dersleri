@@ -1,0 +1,7 @@
+C:\C#Dersleri\PropertyKullanimi\bin\Debug\PropertyKullanimi.exe.config
+C:\C#Dersleri\PropertyKullanimi\bin\Debug\PropertyKullanimi.exe
+C:\C#Dersleri\PropertyKullanimi\bin\Debug\PropertyKullanimi.pdb
+C:\C#Dersleri\PropertyKullanimi\obj\Debug\PropertyKullanimi.csproj.AssemblyReference.cache
+C:\C#Dersleri\PropertyKullanimi\obj\Debug\PropertyKullanimi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\PropertyKullanimi\obj\Debug\PropertyKullanimi.exe
+C:\C#Dersleri\PropertyKullanimi\obj\Debug\PropertyKullanimi.pdb

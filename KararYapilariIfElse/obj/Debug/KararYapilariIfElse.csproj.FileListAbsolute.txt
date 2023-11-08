@@ -1,0 +1,7 @@
+C:\C#Dersleri\KararYapilariIfElse\bin\Debug\KararYapilariIfElse.exe.config
+C:\C#Dersleri\KararYapilariIfElse\bin\Debug\KararYapilariIfElse.exe
+C:\C#Dersleri\KararYapilariIfElse\bin\Debug\KararYapilariIfElse.pdb
+C:\C#Dersleri\KararYapilariIfElse\obj\Debug\KararYapilariIfElse.csproj.AssemblyReference.cache
+C:\C#Dersleri\KararYapilariIfElse\obj\Debug\KararYapilariIfElse.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\KararYapilariIfElse\obj\Debug\KararYapilariIfElse.exe
+C:\C#Dersleri\KararYapilariIfElse\obj\Debug\KararYapilariIfElse.pdb

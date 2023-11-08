@@ -1,0 +1,7 @@
+C:\C#Dersleri\KarisikUygulama\bin\Debug\KarisikUygulama.exe.config
+C:\C#Dersleri\KarisikUygulama\bin\Debug\KarisikUygulama.exe
+C:\C#Dersleri\KarisikUygulama\bin\Debug\KarisikUygulama.pdb
+C:\C#Dersleri\KarisikUygulama\obj\Debug\KarisikUygulama.csproj.AssemblyReference.cache
+C:\C#Dersleri\KarisikUygulama\obj\Debug\KarisikUygulama.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\KarisikUygulama\obj\Debug\KarisikUygulama.exe
+C:\C#Dersleri\KarisikUygulama\obj\Debug\KarisikUygulama.pdb

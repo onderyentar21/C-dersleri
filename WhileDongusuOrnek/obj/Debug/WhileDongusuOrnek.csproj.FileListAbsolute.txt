@@ -1,0 +1,7 @@
+C:\C#Dersleri\WhileDongusuOrnek\bin\Debug\WhileDongusuOrnek.exe.config
+C:\C#Dersleri\WhileDongusuOrnek\bin\Debug\WhileDongusuOrnek.exe
+C:\C#Dersleri\WhileDongusuOrnek\bin\Debug\WhileDongusuOrnek.pdb
+C:\C#Dersleri\WhileDongusuOrnek\obj\Debug\WhileDongusuOrnek.csproj.AssemblyReference.cache
+C:\C#Dersleri\WhileDongusuOrnek\obj\Debug\WhileDongusuOrnek.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\WhileDongusuOrnek\obj\Debug\WhileDongusuOrnek.exe
+C:\C#Dersleri\WhileDongusuOrnek\obj\Debug\WhileDongusuOrnek.pdb

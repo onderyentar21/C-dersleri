@@ -1,0 +1,7 @@
+C:\C#Dersleri\InheratenceDevam\bin\Debug\InheratenceDevam.exe.config
+C:\C#Dersleri\InheratenceDevam\bin\Debug\InheratenceDevam.exe
+C:\C#Dersleri\InheratenceDevam\bin\Debug\InheratenceDevam.pdb
+C:\C#Dersleri\InheratenceDevam\obj\Debug\InheratenceDevam.csproj.AssemblyReference.cache
+C:\C#Dersleri\InheratenceDevam\obj\Debug\InheratenceDevam.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\InheratenceDevam\obj\Debug\InheratenceDevam.exe
+C:\C#Dersleri\InheratenceDevam\obj\Debug\InheratenceDevam.pdb

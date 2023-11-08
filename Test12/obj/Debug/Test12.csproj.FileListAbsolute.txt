@@ -1,0 +1,6 @@
+C:\C#Dersleri\Test12\bin\Debug\Test12.dll
+C:\C#Dersleri\Test12\bin\Debug\Test12.pdb
+C:\C#Dersleri\Test12\obj\Debug\Test12.csproj.AssemblyReference.cache
+C:\C#Dersleri\Test12\obj\Debug\Test12.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\Test12\obj\Debug\Test12.dll
+C:\C#Dersleri\Test12\obj\Debug\Test12.pdb

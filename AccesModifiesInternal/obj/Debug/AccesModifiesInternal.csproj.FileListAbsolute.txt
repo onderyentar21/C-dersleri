@@ -1,0 +1,10 @@
+C:\C#Dersleri\AccesModifiesInternal\bin\Debug\AccesModifiesInternal.exe.config
+C:\C#Dersleri\AccesModifiesInternal\bin\Debug\AccesModifiesInternal.exe
+C:\C#Dersleri\AccesModifiesInternal\bin\Debug\AccesModifiesInternal.pdb
+C:\C#Dersleri\AccesModifiesInternal\bin\Debug\Test12.dll
+C:\C#Dersleri\AccesModifiesInternal\bin\Debug\Test12.pdb
+C:\C#Dersleri\AccesModifiesInternal\obj\Debug\AccesModifiesInternal.csproj.AssemblyReference.cache
+C:\C#Dersleri\AccesModifiesInternal\obj\Debug\AccesModifiesInternal.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\AccesModifiesInternal\obj\Debug\AccesModifiesInternal.csproj.CopyComplete
+C:\C#Dersleri\AccesModifiesInternal\obj\Debug\AccesModifiesInternal.exe
+C:\C#Dersleri\AccesModifiesInternal\obj\Debug\AccesModifiesInternal.pdb

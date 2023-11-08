@@ -1,0 +1,7 @@
+C:\C#Dersleri\GirisUygulmasi\bin\Debug\GirisUygulmasi.exe.config
+C:\C#Dersleri\GirisUygulmasi\bin\Debug\GirisUygulmasi.exe
+C:\C#Dersleri\GirisUygulmasi\bin\Debug\GirisUygulmasi.pdb
+C:\C#Dersleri\GirisUygulmasi\obj\Debug\GirisUygulmasi.csproj.AssemblyReference.cache
+C:\C#Dersleri\GirisUygulmasi\obj\Debug\GirisUygulmasi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\GirisUygulmasi\obj\Debug\GirisUygulmasi.exe
+C:\C#Dersleri\GirisUygulmasi\obj\Debug\GirisUygulmasi.pdb

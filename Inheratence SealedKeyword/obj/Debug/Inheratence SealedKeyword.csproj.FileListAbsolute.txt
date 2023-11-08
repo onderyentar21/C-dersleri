@@ -1,0 +1,7 @@
+C:\C#Dersleri\Inheratence SealedKeyword\bin\Debug\Inheratence SealedKeyword.exe.config
+C:\C#Dersleri\Inheratence SealedKeyword\bin\Debug\Inheratence SealedKeyword.exe
+C:\C#Dersleri\Inheratence SealedKeyword\bin\Debug\Inheratence SealedKeyword.pdb
+C:\C#Dersleri\Inheratence SealedKeyword\obj\Debug\Inheratence SealedKeyword.csproj.AssemblyReference.cache
+C:\C#Dersleri\Inheratence SealedKeyword\obj\Debug\Inheratence SealedKeyword.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\Inheratence SealedKeyword\obj\Debug\Inheratence SealedKeyword.exe
+C:\C#Dersleri\Inheratence SealedKeyword\obj\Debug\Inheratence SealedKeyword.pdb

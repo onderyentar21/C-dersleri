@@ -1,0 +1,7 @@
+C:\C#Dersleri\MethodsExamps\bin\Debug\MethodsExamps.exe.config
+C:\C#Dersleri\MethodsExamps\bin\Debug\MethodsExamps.exe
+C:\C#Dersleri\MethodsExamps\bin\Debug\MethodsExamps.pdb
+C:\C#Dersleri\MethodsExamps\obj\Debug\MethodsExamps.csproj.AssemblyReference.cache
+C:\C#Dersleri\MethodsExamps\obj\Debug\MethodsExamps.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\MethodsExamps\obj\Debug\MethodsExamps.exe
+C:\C#Dersleri\MethodsExamps\obj\Debug\MethodsExamps.pdb

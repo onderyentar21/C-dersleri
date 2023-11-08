@@ -1,0 +1,7 @@
+C:\C#Dersleri\AsalSayiOrnek\bin\Debug\AsalSayiOrnek.exe.config
+C:\C#Dersleri\AsalSayiOrnek\bin\Debug\AsalSayiOrnek.exe
+C:\C#Dersleri\AsalSayiOrnek\bin\Debug\AsalSayiOrnek.pdb
+C:\C#Dersleri\AsalSayiOrnek\obj\Debug\AsalSayiOrnek.csproj.AssemblyReference.cache
+C:\C#Dersleri\AsalSayiOrnek\obj\Debug\AsalSayiOrnek.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\AsalSayiOrnek\obj\Debug\AsalSayiOrnek.exe
+C:\C#Dersleri\AsalSayiOrnek\obj\Debug\AsalSayiOrnek.pdb

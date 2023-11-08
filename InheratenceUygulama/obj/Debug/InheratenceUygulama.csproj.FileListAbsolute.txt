@@ -1,0 +1,7 @@
+C:\C#Dersleri\InheratenceUygulama\bin\Debug\InheratenceUygulama.exe.config
+C:\C#Dersleri\InheratenceUygulama\bin\Debug\InheratenceUygulama.exe
+C:\C#Dersleri\InheratenceUygulama\bin\Debug\InheratenceUygulama.pdb
+C:\C#Dersleri\InheratenceUygulama\obj\Debug\InheratenceUygulama.csproj.AssemblyReference.cache
+C:\C#Dersleri\InheratenceUygulama\obj\Debug\InheratenceUygulama.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\InheratenceUygulama\obj\Debug\InheratenceUygulama.exe
+C:\C#Dersleri\InheratenceUygulama\obj\Debug\InheratenceUygulama.pdb

@@ -1,0 +1,7 @@
+C:\C#Dersleri\ForDongusuPractice\bin\Debug\ForDongusuPractice.exe.config
+C:\C#Dersleri\ForDongusuPractice\bin\Debug\ForDongusuPractice.exe
+C:\C#Dersleri\ForDongusuPractice\bin\Debug\ForDongusuPractice.pdb
+C:\C#Dersleri\ForDongusuPractice\obj\Debug\ForDongusuPractice.csproj.AssemblyReference.cache
+C:\C#Dersleri\ForDongusuPractice\obj\Debug\ForDongusuPractice.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ForDongusuPractice\obj\Debug\ForDongusuPractice.exe
+C:\C#Dersleri\ForDongusuPractice\obj\Debug\ForDongusuPractice.pdb

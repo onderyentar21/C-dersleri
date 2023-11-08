@@ -1,0 +1,7 @@
+C:\C#Dersleri\SwitchCaseOrnek\bin\Debug\SwitchCaseOrnek.exe.config
+C:\C#Dersleri\SwitchCaseOrnek\bin\Debug\SwitchCaseOrnek.exe
+C:\C#Dersleri\SwitchCaseOrnek\bin\Debug\SwitchCaseOrnek.pdb
+C:\C#Dersleri\SwitchCaseOrnek\obj\Debug\SwitchCaseOrnek.csproj.AssemblyReference.cache
+C:\C#Dersleri\SwitchCaseOrnek\obj\Debug\SwitchCaseOrnek.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\SwitchCaseOrnek\obj\Debug\SwitchCaseOrnek.exe
+C:\C#Dersleri\SwitchCaseOrnek\obj\Debug\SwitchCaseOrnek.pdb

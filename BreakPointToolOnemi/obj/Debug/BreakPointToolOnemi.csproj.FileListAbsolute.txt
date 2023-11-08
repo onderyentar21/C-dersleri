@@ -1,0 +1,7 @@
+C:\C#Dersleri\BreakPointToolOnemi\bin\Debug\BreakPointToolOnemi.exe.config
+C:\C#Dersleri\BreakPointToolOnemi\bin\Debug\BreakPointToolOnemi.exe
+C:\C#Dersleri\BreakPointToolOnemi\bin\Debug\BreakPointToolOnemi.pdb
+C:\C#Dersleri\BreakPointToolOnemi\obj\Debug\BreakPointToolOnemi.csproj.AssemblyReference.cache
+C:\C#Dersleri\BreakPointToolOnemi\obj\Debug\BreakPointToolOnemi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\BreakPointToolOnemi\obj\Debug\BreakPointToolOnemi.exe
+C:\C#Dersleri\BreakPointToolOnemi\obj\Debug\BreakPointToolOnemi.pdb

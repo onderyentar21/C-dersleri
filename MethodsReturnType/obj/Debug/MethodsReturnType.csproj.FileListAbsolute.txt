@@ -1,0 +1,7 @@
+C:\C#Dersleri\MethodsReturnType\bin\Debug\MethodsReturnType.exe.config
+C:\C#Dersleri\MethodsReturnType\bin\Debug\MethodsReturnType.exe
+C:\C#Dersleri\MethodsReturnType\bin\Debug\MethodsReturnType.pdb
+C:\C#Dersleri\MethodsReturnType\obj\Debug\MethodsReturnType.csproj.AssemblyReference.cache
+C:\C#Dersleri\MethodsReturnType\obj\Debug\MethodsReturnType.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\MethodsReturnType\obj\Debug\MethodsReturnType.exe
+C:\C#Dersleri\MethodsReturnType\obj\Debug\MethodsReturnType.pdb

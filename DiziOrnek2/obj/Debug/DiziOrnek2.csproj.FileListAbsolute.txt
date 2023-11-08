@@ -1,0 +1,7 @@
+C:\C#Dersleri\DiziOrnek2\bin\Debug\DiziOrnek2.exe.config
+C:\C#Dersleri\DiziOrnek2\bin\Debug\DiziOrnek2.exe
+C:\C#Dersleri\DiziOrnek2\bin\Debug\DiziOrnek2.pdb
+C:\C#Dersleri\DiziOrnek2\obj\Debug\DiziOrnek2.csproj.AssemblyReference.cache
+C:\C#Dersleri\DiziOrnek2\obj\Debug\DiziOrnek2.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\DiziOrnek2\obj\Debug\DiziOrnek2.exe
+C:\C#Dersleri\DiziOrnek2\obj\Debug\DiziOrnek2.pdb

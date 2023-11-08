@@ -1,0 +1,7 @@
+C:\C#Dersleri\ClassOrnek\bin\Debug\ClassOrnek.exe.config
+C:\C#Dersleri\ClassOrnek\bin\Debug\ClassOrnek.exe
+C:\C#Dersleri\ClassOrnek\bin\Debug\ClassOrnek.pdb
+C:\C#Dersleri\ClassOrnek\obj\Debug\ClassOrnek.csproj.AssemblyReference.cache
+C:\C#Dersleri\ClassOrnek\obj\Debug\ClassOrnek.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ClassOrnek\obj\Debug\ClassOrnek.exe
+C:\C#Dersleri\ClassOrnek\obj\Debug\ClassOrnek.pdb

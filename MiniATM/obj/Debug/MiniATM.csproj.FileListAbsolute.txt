@@ -1,0 +1,7 @@
+C:\C#Dersleri\MiniATM\obj\Debug\MiniATM.csproj.AssemblyReference.cache
+C:\C#Dersleri\MiniATM\obj\Debug\MiniATM.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\MiniATM\bin\Debug\MiniATM.exe.config
+C:\C#Dersleri\MiniATM\bin\Debug\MiniATM.exe
+C:\C#Dersleri\MiniATM\bin\Debug\MiniATM.pdb
+C:\C#Dersleri\MiniATM\obj\Debug\MiniATM.exe
+C:\C#Dersleri\MiniATM\obj\Debug\MiniATM.pdb

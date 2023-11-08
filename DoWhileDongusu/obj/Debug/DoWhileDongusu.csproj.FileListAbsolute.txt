@@ -1,0 +1,7 @@
+C:\C#Dersleri\DoWhileDongusu\bin\Debug\DoWhileDongusu.exe.config
+C:\C#Dersleri\DoWhileDongusu\bin\Debug\DoWhileDongusu.exe
+C:\C#Dersleri\DoWhileDongusu\bin\Debug\DoWhileDongusu.pdb
+C:\C#Dersleri\DoWhileDongusu\obj\Debug\DoWhileDongusu.csproj.AssemblyReference.cache
+C:\C#Dersleri\DoWhileDongusu\obj\Debug\DoWhileDongusu.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\DoWhileDongusu\obj\Debug\DoWhileDongusu.exe
+C:\C#Dersleri\DoWhileDongusu\obj\Debug\DoWhileDongusu.pdb

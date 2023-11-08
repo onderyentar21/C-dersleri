@@ -1,0 +1,7 @@
+C:\C#Dersleri\ForeeachDongusu\bin\Debug\ForeeachDongusu.exe.config
+C:\C#Dersleri\ForeeachDongusu\bin\Debug\ForeeachDongusu.exe
+C:\C#Dersleri\ForeeachDongusu\bin\Debug\ForeeachDongusu.pdb
+C:\C#Dersleri\ForeeachDongusu\obj\Debug\ForeeachDongusu.csproj.AssemblyReference.cache
+C:\C#Dersleri\ForeeachDongusu\obj\Debug\ForeeachDongusu.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ForeeachDongusu\obj\Debug\ForeeachDongusu.exe
+C:\C#Dersleri\ForeeachDongusu\obj\Debug\ForeeachDongusu.pdb

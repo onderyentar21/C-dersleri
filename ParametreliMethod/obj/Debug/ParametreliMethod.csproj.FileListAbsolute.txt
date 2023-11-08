@@ -1,0 +1,7 @@
+C:\C#Dersleri\ParametreliMethod\bin\Debug\ParametreliMethod.exe.config
+C:\C#Dersleri\ParametreliMethod\bin\Debug\ParametreliMethod.exe
+C:\C#Dersleri\ParametreliMethod\bin\Debug\ParametreliMethod.pdb
+C:\C#Dersleri\ParametreliMethod\obj\Debug\ParametreliMethod.csproj.AssemblyReference.cache
+C:\C#Dersleri\ParametreliMethod\obj\Debug\ParametreliMethod.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ParametreliMethod\obj\Debug\ParametreliMethod.exe
+C:\C#Dersleri\ParametreliMethod\obj\Debug\ParametreliMethod.pdb

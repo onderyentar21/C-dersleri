@@ -1,0 +1,7 @@
+C:\C#Dersleri\ProtectedInheratence\bin\Debug\ProtectedInheratence.exe.config
+C:\C#Dersleri\ProtectedInheratence\bin\Debug\ProtectedInheratence.exe
+C:\C#Dersleri\ProtectedInheratence\bin\Debug\ProtectedInheratence.pdb
+C:\C#Dersleri\ProtectedInheratence\obj\Debug\ProtectedInheratence.csproj.AssemblyReference.cache
+C:\C#Dersleri\ProtectedInheratence\obj\Debug\ProtectedInheratence.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\ProtectedInheratence\obj\Debug\ProtectedInheratence.exe
+C:\C#Dersleri\ProtectedInheratence\obj\Debug\ProtectedInheratence.pdb

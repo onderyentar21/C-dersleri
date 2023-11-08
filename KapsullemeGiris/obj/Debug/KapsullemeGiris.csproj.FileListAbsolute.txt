@@ -1,0 +1,7 @@
+C:\C#Dersleri\KapsullemeGiris\bin\Debug\KapsullemeGiris.exe.config
+C:\C#Dersleri\KapsullemeGiris\bin\Debug\KapsullemeGiris.exe
+C:\C#Dersleri\KapsullemeGiris\bin\Debug\KapsullemeGiris.pdb
+C:\C#Dersleri\KapsullemeGiris\obj\Debug\KapsullemeGiris.csproj.AssemblyReference.cache
+C:\C#Dersleri\KapsullemeGiris\obj\Debug\KapsullemeGiris.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\KapsullemeGiris\obj\Debug\KapsullemeGiris.exe
+C:\C#Dersleri\KapsullemeGiris\obj\Debug\KapsullemeGiris.pdb
