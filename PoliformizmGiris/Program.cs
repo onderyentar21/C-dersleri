@@ -10,10 +10,27 @@ namespace PoliformizmGiris
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("önder ....");
+           
+            Hayvan hayvan = new Hayvan("Hayvan");
+            hayvan.konus();
+
+            Hayvan kedi = new Kedi("Matilda");
+            kedi.konus();
+
+            Hayvan kopek = new Kopek("karabaş");
+            kopek.konus();
+
+            HayvanlariKonustur(new Kedi("matoşş"));
+            HayvanlariKonustur(new Kopek("deves"));
+
 
             Console.ReadLine();
 
+        }
+        public static void HayvanlariKonustur(Hayvan hayvan)
+        {
+       
+            hayvan.konus();
         }
     }
 }

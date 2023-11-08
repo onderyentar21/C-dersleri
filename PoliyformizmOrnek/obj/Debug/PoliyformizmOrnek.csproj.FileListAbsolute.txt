@@ -1,0 +1,7 @@
+C:\C#Dersleri\PoliyformizmOrnek\obj\Debug\PoliyformizmOrnek.csproj.AssemblyReference.cache
+C:\C#Dersleri\PoliyformizmOrnek\obj\Debug\PoliyformizmOrnek.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\PoliyformizmOrnek\bin\Debug\PoliyformizmOrnek.exe.config
+C:\C#Dersleri\PoliyformizmOrnek\bin\Debug\PoliyformizmOrnek.exe
+C:\C#Dersleri\PoliyformizmOrnek\bin\Debug\PoliyformizmOrnek.pdb
+C:\C#Dersleri\PoliyformizmOrnek\obj\Debug\PoliyformizmOrnek.exe
+C:\C#Dersleri\PoliyformizmOrnek\obj\Debug\PoliyformizmOrnek.pdb
