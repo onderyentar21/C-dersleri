@@ -1,0 +1,7 @@
+C:\C#Dersleri\GenerikKoleksiyonlarGiris\bin\Debug\GenerikKoleksiyonlarGiris.exe.config
+C:\C#Dersleri\GenerikKoleksiyonlarGiris\bin\Debug\GenerikKoleksiyonlarGiris.exe
+C:\C#Dersleri\GenerikKoleksiyonlarGiris\bin\Debug\GenerikKoleksiyonlarGiris.pdb
+C:\C#Dersleri\GenerikKoleksiyonlarGiris\obj\Debug\GenerikKoleksiyonlarGiris.csproj.AssemblyReference.cache
+C:\C#Dersleri\GenerikKoleksiyonlarGiris\obj\Debug\GenerikKoleksiyonlarGiris.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\GenerikKoleksiyonlarGiris\obj\Debug\GenerikKoleksiyonlarGiris.exe
+C:\C#Dersleri\GenerikKoleksiyonlarGiris\obj\Debug\GenerikKoleksiyonlarGiris.pdb

@@ -1,0 +1,7 @@
+C:\C#Dersleri\AbstractClassLariAnlamak\bin\Debug\AbstractClassLariAnlamak.exe.config
+C:\C#Dersleri\AbstractClassLariAnlamak\bin\Debug\AbstractClassLariAnlamak.exe
+C:\C#Dersleri\AbstractClassLariAnlamak\bin\Debug\AbstractClassLariAnlamak.pdb
+C:\C#Dersleri\AbstractClassLariAnlamak\obj\Debug\AbstractClassLariAnlamak.csproj.AssemblyReference.cache
+C:\C#Dersleri\AbstractClassLariAnlamak\obj\Debug\AbstractClassLariAnlamak.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\AbstractClassLariAnlamak\obj\Debug\AbstractClassLariAnlamak.exe
+C:\C#Dersleri\AbstractClassLariAnlamak\obj\Debug\AbstractClassLariAnlamak.pdb

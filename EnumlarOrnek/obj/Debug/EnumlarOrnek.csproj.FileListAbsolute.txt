@@ -1,0 +1,7 @@
+C:\C#Dersleri\EnumlarOrnek\bin\Debug\EnumlarOrnek.exe.config
+C:\C#Dersleri\EnumlarOrnek\bin\Debug\EnumlarOrnek.exe
+C:\C#Dersleri\EnumlarOrnek\bin\Debug\EnumlarOrnek.pdb
+C:\C#Dersleri\EnumlarOrnek\obj\Debug\EnumlarOrnek.csproj.AssemblyReference.cache
+C:\C#Dersleri\EnumlarOrnek\obj\Debug\EnumlarOrnek.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\EnumlarOrnek\obj\Debug\EnumlarOrnek.exe
+C:\C#Dersleri\EnumlarOrnek\obj\Debug\EnumlarOrnek.pdb

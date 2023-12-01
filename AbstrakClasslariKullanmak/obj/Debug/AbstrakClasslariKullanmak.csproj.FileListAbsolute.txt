@@ -1,0 +1,7 @@
+C:\C#Dersleri\AbstrakClasslariKullanmak\bin\Debug\AbstrakClasslariKullanmak.exe.config
+C:\C#Dersleri\AbstrakClasslariKullanmak\bin\Debug\AbstrakClasslariKullanmak.exe
+C:\C#Dersleri\AbstrakClasslariKullanmak\bin\Debug\AbstrakClasslariKullanmak.pdb
+C:\C#Dersleri\AbstrakClasslariKullanmak\obj\Debug\AbstrakClasslariKullanmak.csproj.AssemblyReference.cache
+C:\C#Dersleri\AbstrakClasslariKullanmak\obj\Debug\AbstrakClasslariKullanmak.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\AbstrakClasslariKullanmak\obj\Debug\AbstrakClasslariKullanmak.exe
+C:\C#Dersleri\AbstrakClasslariKullanmak\obj\Debug\AbstrakClasslariKullanmak.pdb

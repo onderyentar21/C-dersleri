@@ -1,0 +1,7 @@
+C:\C#Dersleri\GenericColectionUse\bin\Debug\GenericColectionUse.exe.config
+C:\C#Dersleri\GenericColectionUse\bin\Debug\GenericColectionUse.exe
+C:\C#Dersleri\GenericColectionUse\bin\Debug\GenericColectionUse.pdb
+C:\C#Dersleri\GenericColectionUse\obj\Debug\GenericColectionUse.csproj.AssemblyReference.cache
+C:\C#Dersleri\GenericColectionUse\obj\Debug\GenericColectionUse.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\GenericColectionUse\obj\Debug\GenericColectionUse.exe
+C:\C#Dersleri\GenericColectionUse\obj\Debug\GenericColectionUse.pdb

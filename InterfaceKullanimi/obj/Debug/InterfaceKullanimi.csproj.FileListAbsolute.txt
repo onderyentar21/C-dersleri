@@ -1,0 +1,7 @@
+C:\C#Dersleri\InterfaceKullanimi\bin\Debug\InterfaceKullanimi.exe.config
+C:\C#Dersleri\InterfaceKullanimi\bin\Debug\InterfaceKullanimi.exe
+C:\C#Dersleri\InterfaceKullanimi\bin\Debug\InterfaceKullanimi.pdb
+C:\C#Dersleri\InterfaceKullanimi\obj\Debug\InterfaceKullanimi.csproj.AssemblyReference.cache
+C:\C#Dersleri\InterfaceKullanimi\obj\Debug\InterfaceKullanimi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\InterfaceKullanimi\obj\Debug\InterfaceKullanimi.exe
+C:\C#Dersleri\InterfaceKullanimi\obj\Debug\InterfaceKullanimi.pdb

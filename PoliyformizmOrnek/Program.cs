@@ -62,9 +62,6 @@ namespace PoliyformizmOrnek
                         else if(secinDik=="3") 
                         {
                             break;
-
-
-
                         }
                     }
 

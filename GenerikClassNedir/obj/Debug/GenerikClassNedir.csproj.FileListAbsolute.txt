@@ -1,0 +1,7 @@
+C:\C#Dersleri\GenerikClassNedir\bin\Debug\GenerikClassNedir.exe.config
+C:\C#Dersleri\GenerikClassNedir\bin\Debug\GenerikClassNedir.exe
+C:\C#Dersleri\GenerikClassNedir\bin\Debug\GenerikClassNedir.pdb
+C:\C#Dersleri\GenerikClassNedir\obj\Debug\GenerikClassNedir.csproj.AssemblyReference.cache
+C:\C#Dersleri\GenerikClassNedir\obj\Debug\GenerikClassNedir.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\GenerikClassNedir\obj\Debug\GenerikClassNedir.exe
+C:\C#Dersleri\GenerikClassNedir\obj\Debug\GenerikClassNedir.pdb
